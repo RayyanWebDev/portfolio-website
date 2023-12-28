@@ -17,17 +17,21 @@ const Home = () => {
               Love to work in web application using React, Tailwind, Express.js
               and GSAP.
             </p>
-            <a
+            {/* <a
               href="https://drive.google.com/uc?export=download&id=1bMw5eWfPfN9jJRnyNiAAoFkpNTNf8aK6"
               download="Resume"
               className="btn btn-primary"
             >
-              {/* <a
-              href="https://drive.google.com/file/d/1bMw5eWfPfN9jJRnyNiAAoFkpNTNf8aK6/view?usp=sharing"
-              download="Resume"
-              className="btn btn-primary"
-            > */}
+              
+              
               Resume
+            </a> */}
+            <a
+              href="https://drive.google.com/uc?export=download&id=1j_JtaJLJ3p9KJ2hwPEDq8hLtY8YOMZk0"
+              download="Resume.pdf"
+              className="btn btn-primary"
+            >
+              Download Resume
             </a>
           </div>
         </div>

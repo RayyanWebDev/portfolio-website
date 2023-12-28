@@ -26,8 +26,7 @@ const Project = () => {
               <button
                 className="btn btn-ghost"
                 onClick={() =>
-                  (window.location.href =
-                    "https://sustain-serve-project.web.app/")
+                  (window.location.href = "https://cinehub-firebase.web.app/")
                 }
               >
                 Demo
@@ -35,7 +34,8 @@ const Project = () => {
               <button
                 className="btn btn-ghost"
                 onClick={() =>
-                  (window.location.href = "https://cinehub-firebase.web.app/")
+                  (window.location.href =
+                    "https://github.com/programming-hero-web-course-4/b8a9-event-management-rayyan2300")
                 }
               >
                 Code
@@ -59,7 +59,7 @@ const Project = () => {
                 className="btn btn-ghost"
                 onClick={() =>
                   (window.location.href =
-                    "https://github.com/RayyanWebDev/brand-shop-client-side-public")
+                    "https://lilac-cosmetic-website.web.app/")
                 }
               >
                 Demo
@@ -68,7 +68,7 @@ const Project = () => {
                 className="btn btn-ghost"
                 onClick={() =>
                   (window.location.href =
-                    "https://lilac-cosmetic-website.web.app/")
+                    "https://github.com/RayyanWebDev/brand-shop-client-side-public")
                 }
               >
                 Code
@@ -92,7 +92,7 @@ const Project = () => {
                 className="btn btn-ghost"
                 onClick={() =>
                   (window.location.href =
-                    "https://github.com/RayyanWebDev/sustain-serve-client-project")
+                    "https://sustain-serve-project.web.app/")
                 }
               >
                 Demo
@@ -101,7 +101,7 @@ const Project = () => {
                 className="btn btn-ghost"
                 onClick={() =>
                   (window.location.href =
-                    "https://sustain-serve-project.web.app/")
+                    "https://github.com/RayyanWebDev/sustain-serve-client-project")
                 }
               >
                 Code
